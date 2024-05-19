@@ -5,18 +5,18 @@ repo: upptime # The name of this repository
 sites:
   - name: Palet
     url: https://palet.app
-    icon: https://cdn-1.palet.app/public/favicon.png
+    icon: https://cdn-1.palet.app/public/favicon-white.png
     assignees:
       - agnelnieves
   - name: Palet API
     url: https://api.palet.app/v0.1.0/healthcheck
-    icon: https://cdn-1.palet.app/public/icons/api-connector.png
+    icon: https://cdn-1.palet.app/public/icons/api-connector-white.png
     assignees:
       - stevenlriv
   - name: Palet Global Compute
     check: "tcp-ping"
     url: 159.203.151.174
-    icon: https://cdn-1.palet.app/public/icons/neuro-network.png
+    icon: https://cdn-1.palet.app/public/icons/neuro-network-white.png
     port: 7500
     assignees:
       - stevenlriv
