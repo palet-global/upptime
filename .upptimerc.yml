@@ -23,7 +23,7 @@ sites:
 
 status-website:
   cname: status.palet.app
-  themeUrl: https://cdn-1.palet.app/public/css/status_palet.css?v0.2
+  themeUrl: https://cdn-1.palet.app/public/css/status_palet.css?v0.3
   logoUrl: https://cdn-1.palet.app/public/palet-logo-icon-white.svg
   favicon: https://cdn-1.palet.app/public/favicon.png
   name: Palet System Status
