@@ -23,7 +23,7 @@ sites:
 
 status-website:
   cname: status.palet.app
-  logoUrl: https://cdn-1.palet.app/public/palet-logo-icon.svg
+  logoUrl: https://cdn-1.palet.app/public/palet-logo-icon-white.svg
   favicon: https://cdn-1.palet.app/public/favicon.png
   name: Palet System Status
   introTitle: ""
