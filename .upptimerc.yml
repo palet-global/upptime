@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: Palet
     url: https://palet.app
+    icon: https://cdn-1.palet.app/public/favicon.png
     assignees:
       - agnelnieves
   - name: Palet API
