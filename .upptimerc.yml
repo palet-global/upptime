@@ -9,6 +9,7 @@ sites:
       - agnelnieves
   - name: Palet API
     url: https://api.palet.app/v0.1.0/healthcheck
+    icon: https://cdn-1.palet.app/public/icons/api-connector.png
     assignees:
       - stevenlriv
   - name: Palet Global Compute
