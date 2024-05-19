@@ -25,7 +25,7 @@ status-website:
   cname: status.palet.app
   logoUrl: https://cdn-1.palet.app/public/palet-logo-full.svg
   favicon: https://cdn-1.palet.app/public/favicon.png
-  name: # left empty because logo already indicates the name
+  name: Palet System Status
   introTitle: ""
   introMessage: 
   navbar:
