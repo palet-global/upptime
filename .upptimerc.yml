@@ -23,8 +23,8 @@ status-website:
   logoUrl: https://cdn-1.palet.app/public/palet-logo-full.svg
   favicon: https://cdn-1.palet.app/public/favicon.png
   name: Palet Status
-  introTitle: "Text Title"
-  introMessage: Intro Message
+  introTitle: ""
+  introMessage: 
   navbar:
     - title: Status
       href: /
