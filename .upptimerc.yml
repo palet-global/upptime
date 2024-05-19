@@ -12,9 +12,9 @@ sites:
     assignees:
       - stevenlriv
   - name: Palet Global Compute
-    url: https://palet.global
-    port: 7500
     check: "tcp-ping"
+    url: 159.203.151.174
+    port: 7500
     assignees:
       - stevenlriv
 
@@ -23,14 +23,14 @@ status-website:
   logoUrl: https://cdn-1.palet.app/public/palet-logo-full.svg
   favicon: https://cdn-1.palet.app/public/favicon.png
   name: Palet Status
-  #introTitle: ""
-  #introMessage: 
+  introTitle: "Text Title"
+  introMessage: Intro Message
   navbar:
     - title: Status
       href: /
     - title: Visit Palet
       href: https://palet.app
-
+      
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
 # Upptime also supports notifications, assigning issues, and more
