@@ -19,7 +19,7 @@ sites:
       - stevenlriv
 
 status-website:
-  cname: https://status.palet.app
+  cname: status.palet.app
   logoUrl: https://cdn-1.palet.app/public/palet-logo-full.svg
   favicon: https://cdn-1.palet.app/public/favicon.png
   name: Palet Status
