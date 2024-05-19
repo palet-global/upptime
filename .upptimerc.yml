@@ -14,6 +14,7 @@ sites:
   - name: Palet Global Compute
     check: "tcp-ping"
     url: 159.203.151.174
+    icon: https://cdn-1.palet.app/public/icons/neuro-network.png
     port: 7500
     assignees:
       - stevenlriv
