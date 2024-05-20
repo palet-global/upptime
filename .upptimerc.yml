@@ -14,10 +14,8 @@ sites:
     assignees:
       - stevenlriv
   - name: Palet Global Compute
-    check: "tcp-ping"
-    url: 159.203.151.174
+    url: http://159.203.151.174:8080/healthcheck
     icon: https://cdn-1.palet.app/public/icons/neuro-network-white.png
-    port: 7500
     assignees:
       - stevenlriv
 
