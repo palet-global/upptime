@@ -34,7 +34,7 @@ status-website:
       href: https://palet.app
   links:
     - rel: stylesheet
-      href: https://cdn-1.palet.app/public/css/status_palet_fonts.css?v0.2
+      href: https://cdn-1.palet.app/public/css/status_palet_fonts.css?v0.3
       
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
