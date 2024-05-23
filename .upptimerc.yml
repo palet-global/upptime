@@ -21,7 +21,7 @@ sites:
 
 status-website:
   cname: status.palet.app
-  themeUrl: https://cdn-1.palet.app/public/css/status_palet_2.css?v=1
+  themeUrl: https://cdn-1.palet.app/public/css/status_palet_2.css?v=2
   logoUrl: https://cdn-1.palet.app/public/palet-logo-icon-white.svg
   favicon: https://cdn-1.palet.app/public/favicon.png
   name: Palet System Status
@@ -34,7 +34,7 @@ status-website:
       href: https://palet.app
   links:
     - rel: stylesheet
-      href: https://cdn-1.palet.app/public/css/status_palet_fonts.css?v0.1
+      href: https://cdn-1.palet.app/public/css/status_palet_fonts.css?v0.2
       
 i18n:
   footer: Powered by [Upptime](https://upptime.js.org)
