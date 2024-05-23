@@ -1,7 +1,7 @@
 url: http://159.203.151.174:8080/healthcheck
 status: up
 code: 200
-responseTime: 60
-lastUpdated: 2024-05-23T01:02:49.250Z
+responseTime: 30
+lastUpdated: 2024-05-23T01:17:48.176Z
 startTime: 2024-05-19T01:12:45.157Z
 generator: Upptime <https://github.com/upptime/upptime>
