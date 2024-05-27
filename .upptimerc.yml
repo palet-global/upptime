@@ -14,7 +14,7 @@ sites:
     assignees:
       - stevenlriv
   - name: Palet Global Compute
-    url: http://status.palet.global:8080/healthcheck
+    url: https://status.palet.global:8443/healthcheck
     icon: https://cdn-1.palet.app/public/icons/neuro-network-white.png
     assignees:
       - stevenlriv
