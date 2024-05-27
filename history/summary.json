@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 145,
     "timeDay": 95,
-    "timeWeek": 162,
+    "timeWeek": 137,
     "timeMonth": 145,
     "timeYear": 145,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 125,
-    "timeWeek": 203,
+    "timeWeek": 206,
     "timeMonth": 188,
     "timeYear": 188,
     "dailyMinutesDown": {}
@@ -40,7 +40,7 @@
     "url": "http://status.palet.global:8080/healthcheck",
     "icon": "https://cdn-1.palet.app/public/icons/neuro-network-white.png",
     "slug": "palet-global-compute",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,9 +48,11 @@
     "uptimeYear": "100.00%",
     "time": 53,
     "timeDay": 136,
-    "timeWeek": 78,
+    "timeWeek": 80,
     "timeMonth": 53,
     "timeYear": 53,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-27": 0
+    }
   }
 ]
