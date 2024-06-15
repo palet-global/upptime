@@ -1,7 +1,7 @@
 url: https://api.palet.app/v0.1.0/healthcheck
-status: down
-code: 503
-responseTime: 382
-lastUpdated: 2024-06-15T02:24:46.693Z
+status: up
+code: 200
+responseTime: 145
+lastUpdated: 2024-06-15T02:38:49.081Z
 startTime: 2024-05-19T01:12:44.713Z
 generator: Upptime <https://github.com/upptime/upptime>
