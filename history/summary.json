@@ -22,18 +22,20 @@
     "url": "https://api.palet.app/v0.1.0/healthcheck",
     "icon": "https://cdn-1.palet.app/public/icons/api-connector-white.png",
     "slug": "palet-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 170,
-    "timeWeek": 269,
-    "timeMonth": 201,
-    "timeYear": 201,
-    "dailyMinutesDown": {}
+    "time": 204,
+    "timeDay": 276,
+    "timeWeek": 283,
+    "timeMonth": 204,
+    "timeYear": 204,
+    "dailyMinutesDown": {
+      "2024-06-15": 0
+    }
   },
   {
     "name": "Palet Global Compute",
