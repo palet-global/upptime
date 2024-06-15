@@ -22,19 +22,19 @@
     "url": "https://api.palet.app/v0.1.0/healthcheck",
     "icon": "https://cdn-1.palet.app/public/icons/api-connector-white.png",
     "slug": "palet-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 276,
-    "timeWeek": 283,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 203,
+    "timeDay": 232,
+    "timeWeek": 268,
+    "timeMonth": 203,
+    "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-06-15": 0
+      "2024-06-15": 14
     }
   },
   {
