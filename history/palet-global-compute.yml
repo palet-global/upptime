@@ -1,7 +1,7 @@
 url: https://status.palet.global:8443/healthcheck
 status: up
 code: 200
-responseTime: 303
-lastUpdated: 2024-10-15T23:05:42.047Z
+responseTime: 83
+lastUpdated: 2024-10-16T23:05:46.817Z
 startTime: 2024-05-19T01:12:45.157Z
 generator: Upptime <https://github.com/upptime/upptime>
